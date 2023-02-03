@@ -1,2 +1,2 @@
 # natural-language-calculator
-I'm using a transformer based on the original Attention is All You Need paper to build a calculator that processes natural language.
+To practice manipulating a transformer I'm using a transformer to build a calculator that processes natural language. This transformer is just the decoder half of the tranformer from the original Attention Is All You Need paper, except the normalization layer now comes before the attention and ffw blocks as is now standard practice. 
